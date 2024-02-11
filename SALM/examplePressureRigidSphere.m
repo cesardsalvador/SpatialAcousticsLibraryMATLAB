@@ -1,4 +1,11 @@
 
+% César D. Salvador
+% salvador@perception3d.com
+% https://cesardsalvador.github.io/
+% https://www.perception3d.com/
+% February 11, 2024
+
+
 close all
 clearvars
 clc

@@ -9,6 +9,13 @@
 % PHI     : elevation in [-pi/2, pi/2]
 % R       : radius
 
+% César D. Salvador
+% salvador@perception3d.com
+% https://cesardsalvador.github.io/
+% https://www.perception3d.com/
+% February 11, 2024
+
+
 function [THETA, PHI, R] = sphiso2sph(r, theta, phi)
 THETA = phi; ind = find(THETA<0); THETA(ind) = pi-THETA(ind);
 PHI = pi/2 - theta;

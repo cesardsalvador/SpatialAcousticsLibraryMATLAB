@@ -5,11 +5,12 @@
 % LIBRARY2 available at HYPERLINK2
 % ...
 
-% Cesar D. Salvador
+% César D. Salvador
 % salvador@perception3d.com
 % https://cesardsalvador.github.io/
 % https://www.perception3d.com/
-% March 5, 2023
+% February 11, 2024
+
 
 %% Clean and prepare the Matlab environment
 close all                                   % Close all figures

@@ -10,8 +10,12 @@
 %
 % See also cart2isph.
 
-% Cesar D. Salvador
-% cdsalv@gmail.com
+% César D. Salvador
+% salvador@perception3d.com
+% https://cesardsalvador.github.io/
+% https://www.perception3d.com/
+% February 11, 2024
+
 
 function [x, y, z] = isph2cart(pol, lat, dist)
 x = dist.*cos(lat).*cos(pol);

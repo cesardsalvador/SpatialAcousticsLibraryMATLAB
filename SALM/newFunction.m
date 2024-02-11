@@ -7,13 +7,12 @@
 %
 % See also newScript
 
-% Cesar D. Salvador
-% cesardsalvador@gmail.com
+% César D. Salvador
+% salvador@perception3d.com
 % https://cesardsalvador.github.io/
-% December 6, 2020
+% https://www.perception3d.com/
+% February 11, 2024
 
-% REFERENCE
-% https://www.mathworks.com/matlabcentral/answers/56672-how-can-i-create-a-standard-matlab-template-for-new-programs
 
 function [] = newFunction(fileName)
 folderNameTemplate = 'C:\Prog\Matlab\SpatialAcousticLibrary\';              % Set this folder to a local path

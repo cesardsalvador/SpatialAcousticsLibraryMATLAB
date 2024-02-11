@@ -10,8 +10,11 @@
 %
 % See also isph2cart.
 
-% Cesar D. Salvador
-% cdsalv@gmail.com
+% César D. Salvador
+% salvador@perception3d.com
+% https://cesardsalvador.github.io/
+% https://www.perception3d.com/
+% February 11, 2024
 
 function [pol, lat, dist] = cart2isph(x, y, z)
 pol = atan2(z, x);

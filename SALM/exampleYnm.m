@@ -2,10 +2,12 @@
 % This script plots the spherical harmonic function
 % Required functions: ynm, pnm 
 
-% Cesar D. Salvador
-% daniel@si-in.com
+% César D. Salvador
+% salvador@perception3d.com
 % https://cesardsalvador.github.io/
-% October 14, 2020
+% https://www.perception3d.com/
+% February 11, 2024
+
 
 %% Clean and prepare the Matlab environment
 close all,                                  % Close all figures

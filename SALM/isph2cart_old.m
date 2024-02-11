@@ -8,6 +8,12 @@
 % Output:
 % x, y, z : cartesian coordinates
 
+% César D. Salvador
+% salvador@perception3d.com
+% https://cesardsalvador.github.io/
+% https://www.perception3d.com/
+% February 11, 2024
+
 function [x, y, z] = isph2cart_old(alpha, beta, r)
 x = r.*cos(alpha).*cos(beta);
 y = r.*sin(alpha);

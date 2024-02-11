@@ -11,17 +11,22 @@
 %
 % See also exampleSigmoidFunction.m
 
-% Cesar D. Salvador
-% cesardsalvador@gmail.com
+% César D. Salvador
+% salvador@perception3d.com
 % https://cesardsalvador.github.io/
-% June 17, 2021
+% https://www.perception3d.com/
+% February 11, 2024
 
-% REFERENCES
-% [1] E. G. Williams, Fourier Acoustics: Sound Radiation and Nearfield Acoustical Holography,
-% London, UK: Academic Press, 1999.
-% [2] C. D. Salvador et al., “Boundary matching filters for spherical microphone and loudspeaker arrays”,
-% IEEE/ACM Trans. Audio, Speech, Language Process., vol. 26, no. 3, pp. 461--474, Mar. 2018,
-% [3] Silicon Integrated Co., Ltd., https://www.si-in.com/
+% Reference and citation
+% [1] C. D. Salvador et al., “Boundary matching filters for spherical
+%     microphone and loudspeaker arrays,” IEEE/ACM Trans. Audio, Speech, Language Process.,
+%     vol. 26, no. 3, pp. 461–474, Mar. 2018.
+%     DOI: 10.1109/TASLP.2017.2778562
+% [2] C. D. Salvador et al., “Design theory for binaural synthesis:
+%     Combining microphone array recordings and head-related transfer function datasets,”
+%     Acoust. Sci. Technol., vol. 38, no. 2, pp. 51–62, Mar. 2017.
+%     DOI: 10.1250/ast.38.51
+
 
 function y = sigmoidFunction(x, scale, shift)
 y = 1./(1 + exp(-scale*(x-shift)));

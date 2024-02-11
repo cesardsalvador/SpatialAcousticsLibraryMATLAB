@@ -11,14 +11,22 @@
 %   Output:
 %   x     : N positions in Cartesian coordinates.
 
-% June 4, 2020
-% Cesar D. Salvador
-% daniel@si-in.com
+% César D. Salvador
+% salvador@perception3d.com
+% https://cesardsalvador.github.io/
+% https://www.perception3d.com/
+% February 11, 2024
 
-% Reference
-% Weisstein, Eric W. "Sphere Point Picking."
-% From MathWorld--A Wolfram Web Resource
-% https://mathworld.wolfram.com/SpherePointPicking.html
+% Reference and citation
+% [1] C. D. Salvador et al., “Boundary matching filters for spherical
+%     microphone and loudspeaker arrays,” IEEE/ACM Trans. Audio, Speech, Language Process.,
+%     vol. 26, no. 3, pp. 461–474, Mar. 2018.
+%     DOI: 10.1109/TASLP.2017.2778562
+% [2] C. D. Salvador et al., “Design theory for binaural synthesis:
+%     Combining microphone array recordings and head-related transfer function datasets,”
+%     Acoust. Sci. Technol., vol. 38, no. 2, pp. 51–62, Mar. 2017.
+%     DOI: 10.1250/ast.38.51
+
 
 function x = randsph(N, r, type)
 u = randn(N, 3);

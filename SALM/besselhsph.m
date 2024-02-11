@@ -9,10 +9,11 @@
 %
 % See also besseljsph, besselysph, sft, isft.
 
-% Cesar D. Salvador
-% cesardsalvador@gmail.com
+% César D. Salvador
+% salvador@perception3d.com
 % https://cesardsalvador.github.io/
-% December 14, 2020
+% https://www.perception3d.com/
+% February 11, 2024
 
 function h = besselhsph(m, kind, x)
 if kind == 1

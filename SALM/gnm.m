@@ -13,6 +13,13 @@
 %  norm  : 'sch' (default Schmidt seminorm), 'norm' (full norm), or 'none' (unnormalized).
 % Outputs:
 %  G     : spherical expansion coefficients of order n and degree m.
+
+% César D. Salvador
+% salvador@perception3d.com
+% https://cesardsalvador.github.io/
+% https://www.perception3d.com/
+% February 11, 2024
+
 function G = gnm(n, m, x, rs, k, kind, varargin)
 [azim, elev, r] = cart2sph(x(:,1), x(:,2), x(:,3));
 mm = abs(m);

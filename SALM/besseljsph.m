@@ -8,10 +8,11 @@
 %
 % See also besselysph, besselhsph, sft, isft.
 
-% Cesar D. Salvador
-% cesardsalvador@gmail.com
+% César D. Salvador
+% salvador@perception3d.com
 % https://cesardsalvador.github.io/
-% December 14, 2020
+% https://www.perception3d.com/
+% February 11, 2024
 
 function h = besseljsph(m, x)
 h = sqrt(pi./(2*x)).*besselj(m+0.5, x);

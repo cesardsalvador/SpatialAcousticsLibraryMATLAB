@@ -18,20 +18,24 @@
 %      https://sourceforge.net/projects/sofacoustics/
 %   2) Near-distance HRTF dataset
 %      https://cesardsalvador.github.io/download.html
-%
-% December 16, 2020
-% Cesar D. Salvador
-% cesardsalvador@gmail.com
+
+% César D. Salvador
+% salvador@perception3d.com
 % https://cesardsalvador.github.io/
-%
-% REFERENCES
-% [1] C. D. Salvador et al., “Dataset of near-distance head-related transfer functions
-% calculated using the boundary element method,” Proc. Audio Eng. Soc. Int. Conf.
-% Spatial Reproduction —Aesthetics and Science—, Tokyo, Japan, Aug. 2018.
-% [2] R. Duraiswami et al., “Interpolation and range extrapolation of HRTFs,”
-% Proc. IEEE ICASSP, May 2004, vol. 4, pp. 45–48.
-% [3] J. C. Middlebrooks et al., “Directional dependence of interaural envelope delays,”
-% J. Acoust. Soc. Am., vol. 87, no. 5, pp. 2149–2162, 1990.
+% https://www.perception3d.com/
+% February 11, 2024
+
+% Reference and citation
+% [1] C. D. Salvador et al., “Distance-varying filters to synthesize
+%     head-related transfer functions in the horizontal plane
+%     from circular boundary values,” Acoust. Sci. Technol.,
+%     vol. 38, no. 1, pp. 1–13, Jan. 2017.
+%     DOI: 10.1250/ast.38.1
+% [2] C. D. Salvador, S. Sakamoto, J. Treviño, and Y. Suzuki,
+%     “Dataset of near-distance head-related transfer functions calculated using
+%     the boundary element method,” in Proc. Audio Eng. Soc. Int. Conf.
+%     Spatial Reproduction —Aesthetics and Science—, Tokyo, Japan, August 2018.
+
 
 %% Clean and prepare the Matlab environment
 close all                                   % Close all figures

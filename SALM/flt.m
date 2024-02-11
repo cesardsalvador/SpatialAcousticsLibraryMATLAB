@@ -18,12 +18,12 @@
 %
 % See also iflt, sht, isht.
 
-% References
-% [1] E. G. Williams, Fourier acoustics: sound radiation and nearfield
-% acoustical holography. London, UK: Academic Press, 1999.
+% César D. Salvador
+% salvador@perception3d.com
+% https://cesardsalvador.github.io/
+% https://www.perception3d.com/
+% February 11, 2024
 
-% Cesar D. Salvador
-% cdsalv@gmail.com
 
 function [Fn, varargout] = flt(F, N, theta, varargin)
 

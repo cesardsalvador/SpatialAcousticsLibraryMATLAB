@@ -16,10 +16,11 @@
 %
 % See also fft, ifft
 
-% November 5, 2020
-% Cesar D. Salvador
-% daniel@si-in.com
+% César D. Salvador
+% salvador@perception3d.com
 % https://cesardsalvador.github.io/
+% https://www.perception3d.com/
+% February 11, 2024
 
 % REFERENCES
 % [1] S. J. Schlecht et al., “Scattering in feedback delay networks,”

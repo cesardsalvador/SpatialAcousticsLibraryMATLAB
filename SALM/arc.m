@@ -9,8 +9,11 @@
 %    OUTPUT
 % T:    arc
 
-% Daniel Salvador
-% cdsalv@gmail.com
+% César D. Salvador
+% salvador@perception3d.com
+% https://cesardsalvador.github.io/
+% https://www.perception3d.com/
+% February 11, 2024
 
 function T = arc(p1, p2, p0, n)
 

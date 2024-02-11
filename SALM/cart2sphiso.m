@@ -7,6 +7,12 @@
 % theta   : inclinaton or zenith in [0, pi]
 % phi     : azimuth in [0, 2*pi]
 
+% César D. Salvador
+% salvador@perception3d.com
+% https://cesardsalvador.github.io/
+% https://www.perception3d.com/
+% February 11, 2024
+
 function [r, theta, phi] = cart2sphiso(x, y, z)
 r = sqrt(x.^2 + y.^2 + z.^2);
 theta = atan2(sqrt(x.^2 + y.^2), z);

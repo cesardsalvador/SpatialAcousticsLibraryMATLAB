@@ -15,19 +15,22 @@
 %
 % See also besselhsph, sft, isft
 
-% November 22, 2020
-% Cesar D. Salvador
-% cesardsalvador@gmail.com
+% César D. Salvador
+% salvador@perception3d.com
 % https://cesardsalvador.github.io/
+% https://www.perception3d.com/
+% February 11, 2024
 
-% Reference
-% [1] R. Duraiswami et al., “Interpolation and range extrapolation of HRTFs,”
-% in Proc. IEEE ICASSP, May 2004, vol. 4, pp. 45–48, doi: 10.1109/ICASSP.2004.1326759.
-% [2] M. Pollow et al., “Calculation of head-related transfer functions for arbitrary field
-% points using spherical harmonics,” Acta Acust. United Ac., vol. 98, no. 1, pp. 72–82, Jan. 2012.
-% [3] C. D. Salvador et al., “Distance-varying filters to synthesize head-related
-% transfer functions in the horizontal plane from circular boundary values,”
-% Acoust. Sci. Technol., vol. 38, no. 1, pp. 1–13, Jan. 2017, doi: 10.1250/ast.38.1.
+% Reference and citation
+% [1] C. D. Salvador et al., “Distance-varying filters to synthesize
+%     head-related transfer functions in the horizontal plane
+%     from circular boundary values,” Acoust. Sci. Technol.,
+%     vol. 38, no. 1, pp. 1–13, Jan. 2017.
+%     DOI: 10.1250/ast.38.1
+% [2] C. D. Salvador, S. Sakamoto, J. Treviño, and Y. Suzuki,
+%     “Dataset of near-distance head-related transfer functions calculated using
+%     the boundary element method,” in Proc. Audio Eng. Soc. Int. Conf.
+%     Spatial Reproduction —Aesthetics and Science—, Tokyo, Japan, August 2018.
 
 function Dn = distanceVaryingFilterSpherical(a, b, n, k, regParam)
 Ms = length(k);                                 % Ms = Ns/2+1, Ns = Number of samples in time.

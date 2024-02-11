@@ -26,22 +26,17 @@
 %
 % See also legendrenm, besselhsph, besseljsph
 
-% September 10, 2020
-% Cesar D. Salvador
-% daniel@si-in.com
+% César D. Salvador
+% salvador@perception3d.com
 % https://cesardsalvador.github.io/
+% https://www.perception3d.com/
+% February 11, 2024
 
 % References
-% [1] J. Treviño et al., "High-order ambisonics auditory displays for the
-% scalable presentation of immersive 3D audio-visual contents,"
-% Proc. 23rd Int. Conf. Artificial Reality and Telexistence, Tokyo, Japan, 2013.
-% [2] A. Poletti, “Three-dimensional surround sound systems based on spherical harmonics,”
-% J. Audio Eng. Soc., vol. 53, no. 11, pp. 1004–1025, 2005.
-% [4] S. Spors et al., “The theory of wave field synthesis revisited,”
-% Proc. 124th Audio Eng. Soc. Convention, Amsterdam, The Netherlands, May 2008.
-% [3] C. D. Salvador et al., “Boundary matching filters for spherical
+% [1] C. D. Salvador et al., “Boundary matching filters for spherical
 % microphone and loudspeaker arrays”, IEEE/ACM Trans. Audio, Speech, Language Process.,
 % vol. 26, no. 3, pp. 461--474, Mar. 2018.
+
 
 function IR = freeFieldImpulseResponse(xs, xl, Ns, Fs, c, model)
 f = (0:Ns/2)'*Fs/Ns;            % Frequency

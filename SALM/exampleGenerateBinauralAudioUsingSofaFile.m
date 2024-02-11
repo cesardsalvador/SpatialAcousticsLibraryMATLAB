@@ -2,16 +2,12 @@
 % This script reads and plots the HRIR downloaded from
 % http://recherche.ircam.fr/equipes/salles/listen/download.html
 
-% Cesar D. Salvador
-% cesardsalvador@gmail.com
+% César D. Salvador
+% salvador@perception3d.com
 % https://cesardsalvador.github.io/
-% December 6, 2020
+% https://www.perception3d.com/
+% February 11, 2024
 
-% References
-% [1] O. Warusfel, “Listen HRTF Database,”
-% http://recherche.ircam.fr/equipes/salles/listen/
-% [2] L. S. R. Simon et al., “Perceptual attributes for the comparison of
-% head-related transfer functions,” J. Acoust. Soc. Am., vol. 140, no. 5, pp. 3623–3632, 2016.
 
 %% Initialization
 close all

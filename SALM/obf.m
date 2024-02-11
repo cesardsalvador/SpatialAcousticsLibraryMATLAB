@@ -11,8 +11,11 @@
 %
 % See also bmf, besselhsph, dbesselhsph, sft, isft.
 
-% Cesar D. Salvador
-% cesardsalvador@gmail.com
+% César D. Salvador
+% salvador@perception3d.com
+% https://cesardsalvador.github.io/
+% https://www.perception3d.com/
+% February 11, 2024
 
 % Reference and citation
 % [1] C. D. Salvador et al., “Boundary matching filters for spherical

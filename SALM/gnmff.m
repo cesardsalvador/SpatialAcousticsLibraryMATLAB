@@ -17,8 +17,12 @@
 % Output
 %	gnm:    spherical-harmonic coefficients of the free-field Green function
 
-% Cesar D. Salvador
-% cdsalv@gmail.com
+% César D. Salvador
+% salvador@perception3d.com
+% https://cesardsalvador.github.io/
+% https://www.perception3d.com/
+% February 11, 2024
+
 
 function gnm = gnmff(n, m, rs, x, k, kind, value, norm, source)
 [~, ~, r] = cart2sph(x(:, 1), x(:, 2), x(:, 3));

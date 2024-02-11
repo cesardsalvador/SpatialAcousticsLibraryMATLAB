@@ -7,6 +7,12 @@
 % Output:
 % x, y, z : cartesian coordinates
 
+% César D. Salvador
+% salvador@perception3d.com
+% https://cesardsalvador.github.io/
+% https://www.perception3d.com/
+% February 11, 2024
+
 function [x, y, z] = sphiso2cart(r, theta, phi)
 x = r.*cos(phi).*sin(theta);
 y = r.*sin(phi).*sin(theta);

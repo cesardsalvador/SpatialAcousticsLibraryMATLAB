@@ -6,8 +6,11 @@
 % Output
 %	dh:    derivative of spherical Bessel function
 
-% Cesar D. Salvador
-% cdsalv@gmail.com
+% César D. Salvador
+% salvador@perception3d.com
+% https://cesardsalvador.github.io/
+% https://www.perception3d.com/
+% February 11, 2024
 
 function dh = dbesseljsph(m, x)
 dh = (m./x) .* besseljsph(m, x) - besseljsph(m+1, x);

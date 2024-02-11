@@ -8,6 +8,12 @@
 % alpha   : azimuthal or lateral angle in [-pi/2, pi/2]
 % beta    : elevation or polar angle in [-pi, pi]
 
+% César D. Salvador
+% salvador@perception3d.com
+% https://cesardsalvador.github.io/
+% https://www.perception3d.com/
+% February 11, 2024
+
 function [alpha, beta, r] = cart2isph_old(x, y, z)
 alpha = atan2(y, sqrt(x.^2 + z.^2));
 beta = atan2(z, x);

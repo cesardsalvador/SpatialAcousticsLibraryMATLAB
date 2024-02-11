@@ -2,10 +2,12 @@
 % This script designs and plots an artificial room impulse response as the
 % impulse response of a feedback delay network
 
-% Cesar D. Salvador
-% cesardsalvador@gmail.com
+% César D. Salvador
+% salvador@perception3d.com
 % https://cesardsalvador.github.io/
-% December 15, 2020
+% https://www.perception3d.com/
+% February 11, 2024
+
 
 %% Clean and prepare the Matlab environment
 close all                                   % Close all figures

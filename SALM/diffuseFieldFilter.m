@@ -15,16 +15,16 @@
 %
 % See also exampleDiffuseFieldFilter
 
-% December 15, 2020
-% Cesar D. Salvador
-% cesardsalvador@gmail.com
+% César D. Salvador
+% salvador@perception3d.com
 % https://cesardsalvador.github.io/
+% https://www.perception3d.com/
+% February 11, 2024
 
 % REFERENCES
-% [1] J. C. Middlebrooks, “Individual differences in external-ear transfer functions reduced
-% by scaling in frequency,” J. Acoust. Soc. Am., vol. 106, no. 3, pp. 1480–1492, 1999.
-% [2] J. C. Middlebrooks et al., “Directional dependence of interaural envelope delays,”
-% J. Acoust. Soc. Am., vol. 87, no. 5, pp. 2149–2162, 1990.
+% [1] A. Urviola, S. Sakamoto, and C. D. Salvador, “Ear centering for accurate
+% synthesis of near-field head-related transfer functions," Appl. Sci., vol. 12,
+% no. 16, 2022.
 
 function [equalizerIR, equalizerTF] = diffuseFieldFilter(datasetIR, phaseType, varargin)
 [Ns, L] = size(datasetIR);

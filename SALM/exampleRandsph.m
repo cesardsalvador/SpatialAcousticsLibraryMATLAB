@@ -1,9 +1,10 @@
 % Example of sphere point picking using the function RANDSPH
 
-% Cesar D. Salvador
-% cesardsalvador@gmail.com
+% César D. Salvador
+% salvador@perception3d.com
 % https://cesardsalvador.github.io/
-% October 14, 2020
+% https://www.perception3d.com/
+% February 11, 2024
 
 close all
 clearvars

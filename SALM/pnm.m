@@ -13,10 +13,11 @@
 %
 % See also ynm, sft, isft.
 
-% Cesar D. Salvador
-% October 14, 2020
-% cesardsalvador@gmail.com
+% César D. Salvador
+% salvador@perception3d.com
 % https://cesardsalvador.github.io/
+% https://www.perception3d.com/
+% February 11, 2024
 
 % Reference
 % [1] C. D. Salvador et al., “Boundary matching filters for spherical

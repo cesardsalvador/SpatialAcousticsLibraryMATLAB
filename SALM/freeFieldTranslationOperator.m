@@ -20,20 +20,17 @@
 %
 % See also exampleFreeFieldTranslationOperator.m, exampleDistanceVaryingFilterSphericalEarCentering.m
 
-% Cesar D. Salvador
-% cesardsalvador@gmail.com
+% César D. Salvador
+% salvador@perception3d.com
 % https://cesardsalvador.github.io/
-% January 4, 2021
+% https://www.perception3d.com/
+% February 11, 2024
 
 % REFERENCES
-% [1] E. G. Williams, Fourier Acoustics: Sound Radiation and Nearfield Acoustical Holography,
-% London, UK: Academic Press, 1999.
-% [2] I. Ben Hagai et al., “Acoustic centering of sources measured by surrounding
-% spherical microphone arrays,” J. Acoust. Soc. Am., vol. 130, no. 4, pp. 2003–2015, 2011.
-% [3] N. R. Shabtai et al., “Acoustic centering of sources with high-order radiation patterns,”
-% J. Acoust. Soc. Am., vol. 137, no. 4, pp. 1947–1961, 2015.
-% [4] Z. Ben-Hur et al., “Efficient representation and sparse sampling of head-related transfer functions
-% using phase-correction based on ear alignment,” IEEE Trans. Audio, Speech, Language Process., pp. 1–1, 2019.
+% A. Urviola, S. Sakamoto, and C. D. Salvador, “Ear centering for accurate
+% synthesis of near-field head-related transfer functions," Appl. Sci.,
+% vol. 12, no. 16, 2022.
+
 
 function [IR, TF] = freeFieldTranslationOperator(xSource, xInitial, xFinal, k, model, direction)
 Ns = 2*(length(k)-1);                                   % Number of samples in time.

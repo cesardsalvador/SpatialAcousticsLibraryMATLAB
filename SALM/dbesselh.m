@@ -8,8 +8,11 @@
 % Output
 %	dh:   derivative of Hankel function
 
-% Cesar D. Salvador
-% cdsalv@gmail.com
+% César D. Salvador
+% salvador@perception3d.com
+% https://cesardsalvador.github.io/
+% https://www.perception3d.com/
+% February 11, 2024
 
 function dh = dbesselh(m, kind, x)
 dh = (m./x) .* besselh(m, kind, x) - besselh(m+1, kind, x);

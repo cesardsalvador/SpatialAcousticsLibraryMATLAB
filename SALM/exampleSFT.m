@@ -2,10 +2,12 @@
 % Direct and inverse SFT of noisy functions on the unit sphere
 % Required functions: sft, isft, ynm, pnm, randsph
 
-% Cesar D. Salvador
-% cesardsalvador@gmail.com
+% César D. Salvador
+% salvador@perception3d.com
 % https://cesardsalvador.github.io/
-% December 15, 2020
+% https://www.perception3d.com/
+% February 11, 2024
+
 
 %% Clean and prepare the Matlab environment
 close all                                   % Close all figures

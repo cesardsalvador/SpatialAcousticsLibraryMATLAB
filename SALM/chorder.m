@@ -14,6 +14,12 @@
 %
 % See also sst, isst, isht, sht.
 
+% César D. Salvador
+% salvador@perception3d.com
+% https://cesardsalvador.github.io/
+% https://www.perception3d.com/
+% February 11, 2024
+
 function N = chorder(r_mic, r_source, k, err, alpha, beta, p)
 a = r_mic/r_source;
 Noffset = log(3/2*(1-a)*err) / log(a) + 1;

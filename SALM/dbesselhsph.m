@@ -7,10 +7,11 @@
 % Output
 %	dh:   derivative of spherical Hankel function
 
-% Cesar D. Salvador
-% cesardsalvador@gmail.com
+% César D. Salvador
+% salvador@perception3d.com
 % https://cesardsalvador.github.io/
-% December 14, 2020
+% https://www.perception3d.com/
+% February 11, 2024
 
 function dh = dbesselhsph(m, kind, x)
 dh = (m./x) .* besselhsph(m, kind, x) - besselhsph(m+1, kind, x);
