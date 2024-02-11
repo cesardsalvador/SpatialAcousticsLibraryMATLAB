@@ -1,5 +1,5 @@
-# SpatialAcousticsLibraryMatlab
-The Spatial Acoustics Library for Matlab (SALM) contains a collection of Matlab functions and scripts for spatial acoustic signal processing.
+# Spatial Acoustics Library for Matlab (SALM)
+The spatial acoustics library for Matlab (SALM) contains a collection of Matlab functions and scripts for use in spatial acoustic signal processing and spatial audio processing.
 
 If you use any script, function, or data provided by this repository, please cite as follows:
 
