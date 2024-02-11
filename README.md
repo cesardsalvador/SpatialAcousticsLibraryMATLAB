@@ -7,9 +7,9 @@ If you use any script, function, or data provided by this repository, please cit
 DOI: 10.1109/TASLP.2017.2778562.<br/>
 PDF file available [here](https://cesardsalvador.github.io/doc/Salvador2017BoundaryMatchingFiltersForSphericalArrays.pdf).
 
-3. C. D. Salvador, S. Sakamoto, J. Treviño, and Y. Suzuki, “Dataset of near-distance head-related transfer functions calculated using the boundary element method,” presented at the Proc. Audio Eng. Soc. Int. Conf. Spatial Reproduction —Aesthetics and Science—, Tokyo, Japan, Aug. 2018.
+3. C. D. Salvador, S. Sakamoto, J. Treviño, and Y. Suzuki, “Dataset of near-distance head-related transfer functions calculated using the boundary element method,” presented at the Proc. Audio Eng. Soc. Int. Conf. Spatial Reproduction —Aesthetics and Science—, Tokyo, Japan, Aug. 2018.<br/>
 PDF file available [here](https://cesardsalvador.github.io/doc/Salvador2018NearDistanceHRTFDataset.pdf).
 
-4. C. D. Salvador, S. Sakamoto, J. Treviño, and Y. Suzuki, “Design theory for binaural synthesis: Combining microphone array recordings and head-related transfer function datasets,” Acoust. Sci. Technol., vol. 38, no. 2, pp. 51–62, Mar. 2017.
-DOI: 10.1250/ast.38.51.
+4. C. D. Salvador, S. Sakamoto, J. Treviño, and Y. Suzuki, “Design theory for binaural synthesis: Combining microphone array recordings and head-related transfer function datasets,” Acoust. Sci. Technol., vol. 38, no. 2, pp. 51–62, Mar. 2017.<br/>
+DOI: 10.1250/ast.38.51.<br/>
 PDF file available [here](https://cesardsalvador.github.io/doc/Salvador2017BinauralSynthesisDesignTheory.pdf).
