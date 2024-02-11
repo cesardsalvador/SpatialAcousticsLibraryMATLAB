@@ -3,8 +3,8 @@ The spatial acoustics library for Matlab (SALM) contains a collection of Matlab 
 
 If you use any script, function, or data provided by this repository, please cite as follows:
 
-1. C. D. Salvador, S. Sakamoto, J. Treviño, and Y. Suzuki, “Boundary matching filters for spherical microphone and loudspeaker arrays,” IEEE/ACM Trans. Audio, Speech, Language Process., vol. 26, no. 3, pp. 461--474, Mar. 2018.;NBSP
-DOI: 10.1109/TASLP.2017.2778562.;NBSP
+1. C. D. Salvador, S. Sakamoto, J. Treviño, and Y. Suzuki, “Boundary matching filters for spherical microphone and loudspeaker arrays,” IEEE/ACM Trans. Audio, Speech, Language Process., vol. 26, no. 3, pp. 461--474, Mar. 2018.<br/>
+DOI: 10.1109/TASLP.2017.2778562.<br/>
 PDF file available [here](https://cesardsalvador.github.io/doc/Salvador2017BoundaryMatchingFiltersForSphericalArrays.pdf).
 
 3. C. D. Salvador, S. Sakamoto, J. Treviño, and Y. Suzuki, “Dataset of near-distance head-related transfer functions calculated using the boundary element method,” presented at the Proc. Audio Eng. Soc. Int. Conf. Spatial Reproduction —Aesthetics and Science—, Tokyo, Japan, Aug. 2018.
