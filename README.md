@@ -1,7 +1,7 @@
 # Spatial Acoustics Library for Matlab (SALM)
 The spatial acoustics library for Matlab (SALM) contains a collection of Matlab functions and scripts for use in spatial acoustic signal processing and spatial audio processing.
 
-If you use any script, function, or data provided by this repository, please cite as follows:
+If you use any script, function, or dataset available in this repository, please cite our works as follows:
 
 1. C. D. Salvador, S. Sakamoto, J. Treviño, and Y. Suzuki, “Boundary matching filters for spherical microphone and loudspeaker arrays,” IEEE/ACM Trans. Audio, Speech, Language Process., vol. 26, no. 3, pp. 461--474, Mar. 2018.<br/>
 DOI: 10.1109/TASLP.2017.2778562.<br/>
