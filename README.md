@@ -8,9 +8,7 @@ If you use any script, function, or dataset available in this repository, please
 * C. D. Salvador, Spatial Acoustics Library for Matlab (SALM), Version 1.0.0, GitHub, February 2024.<br/>
 DOI: [10.5281/zenodo.10648288](https://zenodo.org/doi/10.5281/zenodo.10648288).<br/>
 
-The spatial acoustics library for Matlab (SALM) contains a collection of Matlab functions and scripts used in our papers listed below. We share SALM hoping it will also be useful in other projects involving spatial acoustic signal processing and spatial audio processing.
-
-In addition, please properly cite our corresponding papers as described in the help section in the header of each M-file.
+SALM has been used in our papers listed below. We share SALM hoping it will also be useful in other projects. In addition, please properly cite our corresponding papers as described in the help section in the header of each M-file.
 
 1. C. D. Salvador, S. Sakamoto, J. Treviño, and Y. Suzuki, “Boundary matching filters for spherical microphone and loudspeaker arrays,” IEEE/ACM Trans. Audio, Speech, Language Process., vol. 26, no. 3, pp. 461--474, Mar. 2018.<br/>
 DOI: [10.1109/TASLP.2017.2778562](https://doi.org/10.1109/TASLP.2017.2778562).<br/>
