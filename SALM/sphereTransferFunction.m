@@ -1,5 +1,5 @@
 % Sphere transfer function
-%   H = sphere_transfer_function(a, b, theta, k, thres)
+%   H = sphereTransferFunction(a, b, theta, k, thres)
 %
 % INPUT
 % a:        radius of the measurement point (mic)
@@ -11,7 +11,7 @@
 % OUPUT
 % H:        sphere transfer function
 %
-% See also pressure_rigid_sphere.
+% See also pressureRigidSphere.
 
 % César D. Salvador
 % salvador@perception3d.com
@@ -30,7 +30,7 @@
 %     DOI: 10.1250/ast.38.51
 
 
-function [H, n] = sphere_transfer_function(a, b, theta, k, thres)
+function [H, n] = sphereTransferFunction(a, b, theta, k, thres)
 
 x = cosd(theta);
 mu = k * a;
