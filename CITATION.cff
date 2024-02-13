@@ -5,7 +5,7 @@ authors:
   given-names: "César D."
   orcid: "https://orcid.org/0000-0002-3516-3788"
 title: "Spatial Acoustics Library for Matlab (SALM)"
-version: 1.0.0
+version: 1.0.1
 doi: 10.5281/zenodo.10648289
 date-released: 2024-02-11
 url: "https://github.com/cesardsalvador/SpatialAcousticsLibraryMatlab"
