@@ -1,7 +1,7 @@
-<div align="center">
+<div style="text-align:center">
 ![Spherical Harmonics](https://github.com/cesardsalvador/SpatialAcousticsLibraryMATLAB/blob/main/Fig/FigSphericalHarmonics.png)
 </div>
- 
+
 # Spatial Acoustics Library for MATLAB (SALM)
 [![DOI](https://zenodo.org/badge/755792726.svg)](https://zenodo.org/doi/10.5281/zenodo.10648288)<br/>
 
