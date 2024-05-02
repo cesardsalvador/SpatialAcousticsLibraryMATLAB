@@ -1,4 +1,4 @@
-![Sonny and Mariel high fiving.](https://content.codecademy.com/courses/learn-cpp/community-challenge/highfive.gif)
+![Spherical Harmonics](https://github.com/cesardsalvador/SpatialAcousticsLibraryMATLAB/blob/main/Fig/FigSphericalHarmonics.png)
 
 # Spatial Acoustics Library for MATLAB (SALM)
 [![DOI](https://zenodo.org/badge/755792726.svg)](https://zenodo.org/doi/10.5281/zenodo.10648288)<br/>
