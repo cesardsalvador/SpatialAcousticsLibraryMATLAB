@@ -1,5 +1,5 @@
 <div style="text-align:center">
-![Spherical Harmonics](https://github.com/cesardsalvador/SpatialAcousticsLibraryMATLAB/blob/main/Fig/FigSphericalHarmonics.png)
+<img src="https://github.com/cesardsalvador/SpatialAcousticsLibraryMATLAB/blob/main/Fig/FigSphericalHarmonics.png" />
 </div>
 
 # Spatial Acoustics Library for MATLAB (SALM)
