@@ -5,6 +5,8 @@ The spatial acoustics library for MATLAB (SALM) contains a collection of Matlab 
 
 If you use any script, function, or dataset available in this repository, please cite SALM as below.
 
+* C. D. Salvador, J. Treviño and S. Sakamoto, “Spatial acoustics library for MATLAB (SALM): A computational toolkit for spatial audio processing,” 3rd International Conference on Immersive and 3D Audio, Bologna, Italy, Sep. 2025.<br/>
+Link to event: [https://www.i3da2025.org/](https://www.i3da2025.org/).<br/>
 * C. D. Salvador, Spatial Acoustics Library for MATLAB (SALM), GitHub, February 2024.<br/>
 DOI: [10.5281/zenodo.10648288](https://zenodo.org/doi/10.5281/zenodo.10648288).<br/>
 
